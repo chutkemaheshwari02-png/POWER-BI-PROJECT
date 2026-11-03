@@ -2,27 +2,59 @@
 Analysis using the  POWER BI
 
 
-THIS DATA BASE CONSIST  PRODUCT COST AND PROFITABILITY ANALYSIS.
+THIS DATA BASE CONSIST  REMOTE WORKFORCE AND EMPLOYEE WELL-BEING ANALYTICS ;
 
-OVERVIEW:-
-THIS PROJECT FOCUSES ON ANALYZING PRODUCT WISE SALE,COST ,DISCOUNT AND 
-PROFITABILITY TO IDENTITYFY HIGH-PERFORMING AND LOW PERFORMING PRODUCT ;
+Remote Workforce & Employee Well-being Analytics
 
-OBJECTIVES :-
+📌 Project Overview
 
-ANALYZE TOTAL PRODUCT REVENUE.
-CALCULATE TOTAL PRODUCT COSTS.
-IDENTIFY TOTAL PROFIT AND PROFIT MARGIN
-COMPARE PRODUCT -WISE PROFITABILITY.
-IDENTIFY LOSS-MAKING PRODUCTS
-ANALYZE DISCOUNT IMPACT ON PROFITABILITY
-SUPPORT DATA-DRIVEN BUSINESS DECISION
+This project analyzes remote workforce data to understand employee well-being, productivity, work patterns, and job satisfaction.
 
-KEY PERFORMANCE INDICATORS (KPIS)
+The dashboard helps organizations identify workforce trends and improve employee experience and productivity.
 
-TOTAL REVEBUE
-TOTAL COST
-PROFIT MARGIN %
+🎯 Project Objectives
 
+* Analyze employee demographics.
+* Understand remote working patterns.
+* Evaluate employee work-life balance.
+* Analyze mental health indicators.
+* Identify productivity trends.
+* Understand employee satisfaction.
 
-TOTAL PRODUCT
+🛠️ Tools & Technologies
+
+* Power BI
+* Power Query
+* DAX
+* Microsoft Excel
+
+📊 Key Performance Indicators (KPIs)
+
+* Total Employees
+* Average Age
+* Average Work Experience
+* Average Working Hours
+* Average Virtual Meetings
+* Average Work-Life Balance
+* Average Job Satisfaction
+* Average Sleep Quality
+
+📈 Dashboard Analysis
+
+* Employee Distribution by Gender
+* Employee Distribution by Region
+* Work Location Analysis
+* Job Role Analysis
+* Industry Analysis
+* Working Hours Analysis
+* Mental Health Indicators
+* Employee Productivity Analysis
+
+💡 Business Insights
+
+* Understand employee satisfaction.
+* Identify work-life balance challenges.
+* Analyze remote working productivity.
+* Support better workforce management.
+* Improve employee well-being.
+
